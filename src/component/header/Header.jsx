@@ -4,10 +4,12 @@ import Headernav2 from "../../block/headernav/headernav2/headernav2";
 
 const Header = () => {
     return (
-        <div className="container">
-            <img src="../../src\assets\logo.svg" alt="logo" />
-            <Headernav1 />
+        <div className="header">
+            <img src="../../src\assets\logo.svg" alt="logo" className="logo"/>
+            <div className="headernav">
+                 <Headernav1 />
             <Headernav2 />
+            </div>
         </div>
     )
 }

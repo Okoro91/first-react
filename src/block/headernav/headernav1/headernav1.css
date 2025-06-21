@@ -1,4 +1,11 @@
 nav {
     display: flex;
-    gap: 10px;
+    gap: 20px;
+    align-items: center;
+}
+
+nav a {
+    font-size: 18px;
+    color: #494747;
+    font-weight: 600;
 }

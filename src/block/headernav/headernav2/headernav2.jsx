@@ -1,4 +1,5 @@
-import "../headernav1/headernav1.css"
+// import "../headernav1/headernav1.css"
+import "./Headernav2.css"
 
 const Headernav2 = () => {
     return (
