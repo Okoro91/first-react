@@ -4,7 +4,7 @@ const Hero = () => {
     return (
         <div className="hero">
             <Herotext />
-            <img src="../../src\assets\image-hero-desktop.png" alt="logo" className="heroImg"/>
+            <img src="./image-hero-desktop.png" alt="logo" className="heroImg"/>
         </div>
     )
 }
