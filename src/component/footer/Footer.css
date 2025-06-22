@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    margin-left: 50px;
+}
+
+.partners {
+ width: 150px;
+ height: 40px;
+}

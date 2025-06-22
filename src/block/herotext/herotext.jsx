@@ -1,3 +1,4 @@
+import "./Herotext.css"
 const Herotext = () => {
     return (
         <div className="herotext">

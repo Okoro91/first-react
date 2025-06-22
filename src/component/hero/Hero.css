@@ -1,0 +1,13 @@
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    width: 80%;
+    max-width: 1200px;
+    margin: 10px auto 0;
+    padding: 20px;
+}
+
+.heroImg {
+ width: 310px;
+}
